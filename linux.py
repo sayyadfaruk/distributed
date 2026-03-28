@@ -1,1 +1,2 @@
-new python file for linux command practice
+command : 
+# grep 'text-base' file.txt
